@@ -1,7 +1,7 @@
 'use strict'
 String.prototype.clr = function (hexColor) { return `<font color='#${hexColor}'>${this}</font>` };
 
-module.exports = function WhiskersInCombat(mod) {    
+module.exports = function WhiskersAlert(mod) {    
     const WhiskerIDs = [206100, 206101, 206102, 206103, 206104, 206105, 206106, 206107, 206108, 206109];
     const Message = 'Angler Whisker is equipped!';
 	const BaitIDs = [206001, 206002, 206003, 206004, 206006, 206007, 206008, 206009];
