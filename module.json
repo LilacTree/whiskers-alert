@@ -1,15 +1,16 @@
 {
     "disableAutoUpdate": false,
-    "name": "whiskers-in-combat",
-    "author": "teralove",
-    "description": "Get message when you enter combat while wearing Angler Whiskers",
-    "version": "4/23/2019", 
+    "name": "whiskers-alert",
+    "author": "LilacTree",
+    "description": "Alerts you when you enter combat while Angler's Whiskers are equipped, as well as when you use bait while Angler's Whiskers are not equipped",
+    "version": "5/27/2019",
     "options": {
-        "niceName": "Whiskers in Combat",
+        "niceName": "Whiskers Alert",
+		"guiName": "Whiskers Alert",
         "settingsVersion": 1,
         "settingsFile": "config.json",
-        "settingsMigrator": "settings_migrator.js"    
+        "settingsMigrator": "settings_migrator.js"
     },
-    "servers": ["https://raw.githubusercontent.com/teralove/whiskers-in-combat/master/"],
-    "supportUrl": "https://github.com/teralove/whiskers-in-combat/issues"
+    "servers": ["https://raw.githubusercontent.com/LilacTree/whiskers-alert/master/"],
+    "supportUrl": "https://github.com/LilacTree/whiskers-alert/issues"
 }
