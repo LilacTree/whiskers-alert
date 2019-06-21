@@ -3,7 +3,7 @@
 	"name": "whiskers-alert",
 	"author": "LilacTree",
 	"description": "Alerts you when you enter combat while Angler's Whiskers are equipped, as well as when you use bait while Angler's Whiskers are not equipped",
-	"version": "5/27/2019",
+	"version": "6/20/2019",
 	"options": {
 		"niceName": "Whiskers Alert",
 		"guiName": "Whiskers Alert",

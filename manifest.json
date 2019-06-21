@@ -4,9 +4,9 @@
 			"overwrite": false,
 			"hash": "c68baa94759411c80e43539cd7de4149553311313ea3e845f7641d19611938dc"
 		},
-		"index.js": "e07145c14d0cefcf8b64b7a54815b7fff66d08a7178da6d4fa7b8cc026456544",
-		"module.json": "5b2b4e3e34b22ea464b7d60cfd90572f059434aafa79df3d898b047ec6d88ef4",
-		"README.md": "230e474bd1718a4f9d09eaa8a3cb2f15e75c44f5c197ad7cb7e76391f312943d",
+		"index.js": "4975f35fd5a04c00a01039762618d74e055c01ef227b0aa9d1c5f0b426503e97",
+		"module.json": "bd69752364484174a67307b4e094bee6e3087ca6853cd9ada954f2577f7cca32",
+		"README.md": "cee3bf686a89c88138e403fea36d6ad8f927cc65ba18c780288c7f7a3176a8f7",
 		"settings_migrator.js": "34f5612c09828e89c37a5c72e7bdb9288714cdf02cc6ceaae74dd27b3f3770c2"
 	},
 	"defs": {
